@@ -1,4 +1,4 @@
-baseURL: "https://isexychat.com/blog"
+baseURL: "https://isexychat.com"
 languageCode: "en-us"
 title: "iSexyChat Blog"
 pygmentsstyle: 'monokai'
