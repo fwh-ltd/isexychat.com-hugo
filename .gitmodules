@@ -1,0 +1,3 @@
+[submodule "themes/novela"]
+	path = themes/novela
+	url = git@github.com:fwh-ltd/hugo-theme-novela.git
