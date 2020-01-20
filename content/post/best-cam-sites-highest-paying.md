@@ -16,7 +16,6 @@ banner300x250: "/images/post-300x250.jpg"
 banner320x50: "/images/post-320x50.jpg"
 banner468x60: "/images/post-468x60.jpg"
 banner728x90: "/images/post-728x90.jpg"
-draft: true
 
 ---
 The webcam modeling industry has been steadily growing in terms of the popularity of visitors and opportunities for webcam models worldwide. There is certainly a lot of money to be made in webcam modeling jobs, but with it comes the negative repercussion of the risk of frauds of scams. So, it is highly imperative to choose and get a modeling job on the top webcam modeling websites which are trustworthy along with providing a higher cut of payout commission.
