@@ -11,3 +11,5 @@ fields:
 - type: file
   name: hero
   label: hero
+pages:
+- content/categories/webcam-modeling.md
