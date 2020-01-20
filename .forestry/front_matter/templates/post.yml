@@ -21,16 +21,6 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: timeToRead
-  type: number
-  label: Read Time
-  description: The time it takes to read the post (in minutes)
-  default: 0
-  config:
-    required: true
-    min: 
-    max: 
-    step: 
 - name: hero
   type: file
   config:
@@ -46,6 +36,12 @@ fields:
     required: false
   default: []
   label: Tags
+- name: categories
+  type: tag_list
+  config:
+    required: false
+  default: []
+  label: Categories
 - name: timeToRead
   type: number
   label: Read Time
