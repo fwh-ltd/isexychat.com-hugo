@@ -49,7 +49,7 @@ When it comes to finding the best sites of highest paying webcam jobs for webcam
 
 ### Chaturbate
 
-[![Chaturbate Logo](/images/Chaturbate-Logo.jpg =250x)](https://chaturbate.com)
+[![Chaturbate Logo](/images/Chaturbate-Logo.jpg |width=250)](https://chaturbate.com)
 
 Chaturbate is the largest American adult camming site in the world in terms of
 traffic. The website name ‘Chaturbate’ is a portmanteau of the words Chat and
@@ -59,7 +59,7 @@ different languages.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |   |
+| Site Details |  |
 | --- | --- |
 | Website | https://chaturbate.com |
 | Modeling expertise | For Beginners & Professionals |
@@ -86,7 +86,7 @@ million users visiting every day.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |   |
+| Site Details |  |
 | --- | --- |
 | Website | https://livejasmin.com/ |
 | Modeling expertise | For Beginners & Professionals |
@@ -118,7 +118,7 @@ highest paying webcam modeling sites of the lot.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |   |
+| Site Details |  |
 | --- | --- |
 | Website | https://myfreecams.com |
 | Modeling expertise | For Beginners & Professionals |
@@ -147,7 +147,7 @@ Europe.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |   |
+| Site Details |  |
 | --- | --- |
 | Website | https://bongacams.com |
 | Modeling expertise | For Beginners & Professionals |
@@ -179,7 +179,7 @@ average of 500-800 models online every hour.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |   |
+| Site Details |  |
 | --- | --- |
 | Website | https://stripchat.com |
 | Modeling expertise | For Beginners & Professionals |
@@ -207,7 +207,7 @@ performances.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |   |
+| Site Details |  |
 | --- | --- |
 | Website | https://cam4.com |
 | Modeling expertise | For Beginners |
@@ -242,7 +242,7 @@ live streams.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |   |
+| Site Details |  |
 | --- | --- |
 | Website | https://camsoda.com |
 | Modeling expertise | For Beginners & Professionals |
