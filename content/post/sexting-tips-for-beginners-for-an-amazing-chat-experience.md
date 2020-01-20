@@ -14,6 +14,6 @@ hero = "/images/Girl-Sexting-on-Phone-and-Smiling-e1556090879623.jpg"
 meta_robots = ["follow", "index"]
 tags = []
 timeToRead = 5
-title = "Sexting Tips for Beginners for an Amazing Chat Experience"
+title = "15 Sexting Tips for Beginners for an Amazing Chat Experience"
 
 +++
