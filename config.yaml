@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://isexychat.com/blog"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "iSexyChat Blog"
 pygmentsstyle: 'monokai'
 
 # Theme settings

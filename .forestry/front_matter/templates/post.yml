@@ -5,7 +5,7 @@ fields:
 - name: title
   type: text
   config:
-    required: false
+    required: true
   label: Title
 - name: excerpt
   type: text
@@ -40,3 +40,61 @@ fields:
   type: tag_list
   default: []
   label: Authors
+- name: tags
+  type: tag_list
+  config:
+    required: false
+  default: []
+  label: Tags
+- name: timeToRead
+  type: number
+  label: Read Time
+  description: The time it takes to read the post (in minutes)
+  default: 0
+  config:
+    required: true
+    min: 
+    max: 
+    step: 
+- name: meta_description
+  type: text
+  config:
+    required: false
+  label: Meta Description
+  description: meta name="description" content
+- name: meta_robots
+  type: tag_list
+  default: []
+  config:
+    required: false
+  label: meta name="robots" content
+- name: banner_text
+  type: file
+  config:
+    required: false
+  label: banner text for this post (derive from title)
+- name: banner_728x90
+  type: file
+  config:
+    required: false
+  label: 728x90 banner for this post (derive from hero)
+- name: banner_468x60
+  type: file
+  config:
+    required: false
+  label: 468x60 banner for this post (derive from hero)
+- name: banner_320x50
+  type: file
+  config:
+    required: false
+  label: 320x50 banner for this post (derive from hero)
+- name: banner_300x250
+  type: file
+  config:
+    required: false
+  label: 300x250 banner for this post (derive from hero)
+- name: banner_160x600
+  type: file
+  config:
+    required: false
+  label: 160x600 banner for this post (derive from hero)
