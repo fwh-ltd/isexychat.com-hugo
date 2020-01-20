@@ -33,9 +33,9 @@ The first thing to know is that it is not always as glamorous as it seems. Pursu
 
 If you are determined to become a webcam model, you need to make a few decisions about how to do it and where to do it. Some of the things to consider are:
 
-- *How much are you willing to do* – Many of the highest paying webcam jobs require nudity and erotic acts. You need to be comfortable with displaying this to the world.
-- *Different Ways to Make Money* – Many websites offer different ways to make money. Like, in addition to pictures and videos getting involved in a live video chat is a way to make more money.
-- *Practice Your Skills* – There is a huge difference between a professional webcam model and an amateur one. It takes practice finding the things that people enjoy seeing and talking about, in chats to get enough of an audience to make a lot of money.
+- **How much are you willing to do** – Many of the highest paying webcam jobs require nudity and erotic acts. You need to be comfortable with displaying this to the world.
+- **Different Ways to Make Money** – Many websites offer different ways to make money. Like, in addition to pictures and videos getting involved in a live video chat is a way to make more money.
+- **Practice Your Skills** – There is a huge difference between a professional webcam model and an amateur one. It takes practice finding the things that people enjoy seeing and talking about, in chats to get enough of an audience to make a lot of money.
 
 The most important thing to do is to find the right website to earn money as a model. Some people turn to webcam modeling agencies to help them with their webcam modeling career. Others turn to free adult webcam sites that allow them to sign up without making a financial commitment.
 
