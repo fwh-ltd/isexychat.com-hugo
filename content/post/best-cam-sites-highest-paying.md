@@ -242,9 +242,9 @@ live streams.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |
-| --- |
-| Website |
+| Site Details | &nbsp;
+| --- | ---
+| Website | https://camsoda.com
 | Modeling expertise |
 | Payout |
 | Payment Options |
