@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Mila Harper"]
 banner_160x600 = ""
 banner_300x250 = ""
 banner_320x50 = ""
