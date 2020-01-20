@@ -90,3 +90,5 @@ fields:
   config:
     required: false
   label: 160x600 banner for this post (derive from hero)
+pages:
+- content/post/amazing-steps-for-sex-chat-success.md
