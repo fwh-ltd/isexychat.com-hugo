@@ -14,6 +14,6 @@ hero = ""
 meta_robots = ["follow", "index"]
 tags = []
 timeToRead = 5
-title = "Amazing Webcam Modeling Tips for a Successful Career"
+title = "14 Amazing Webcam Modeling Tips for a Successful Career"
 
 +++
