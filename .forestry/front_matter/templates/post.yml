@@ -54,7 +54,9 @@ fields:
     step: 
 - name: meta_robots
   type: tag_list
-  default: ["follow","index"]
+  default:
+  - follow
+  - index
   config:
     required: false
   label: meta name="robots" content
