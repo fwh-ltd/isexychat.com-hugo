@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: content/tag/**/*
+  label: Tags
+  match: "**/*"
 - type: heading
   label: Content
 - type: document
@@ -18,8 +22,7 @@ sections:
   - post
 - type: document
   path: content/category/**/*
-  label: Category
-  match: "**/*"
+  label: Categories
 - type: heading
   label: Data
 - type: directory
