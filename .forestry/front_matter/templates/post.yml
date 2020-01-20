@@ -46,12 +46,6 @@ fields:
     required: false
   default: []
   label: Tags
-- name: authors
-  type: tag_list
-  config:
-    required: true
-  default: []
-  label: Authors
 - name: timeToRead
   type: number
   label: Read Time
@@ -62,11 +56,6 @@ fields:
     min: 
     max: 
     step: 
-- name: link_rel_canonical
-  type: text
-  config:
-    required: false
-  label: link rel="canonical" content
 - name: meta_description
   type: text
   config:
@@ -79,61 +68,6 @@ fields:
   config:
     required: false
   label: meta name="robots" content
-- name: meta_og_type
-  type: text
-  config:
-    required: false
-  label: meta property="og:type" content
-- name: meta_og_title
-  type: text
-  config:
-    required: false
-  label: meta property="og:title" content
-- name: meta_og_description
-  type: text
-  config:
-    required: false
-  label: meta property="og:description" content
-- name: meta_og_image
-  type: file
-  config:
-    required: false
-  label: meta property="og:image" content
-- name: meta_og_url
-  type: text
-  config:
-    required: false
-  label: meta property="og:url" content
-- name: meta_og_site_name
-  type: text
-  config:
-    required: false
-  label: meta property="og:site_name" content
-- name: meta_twitter_title
-  type: text
-  config:
-    required: false
-  label: meta property="twitter:title" content
-- name: meta_twitter_description
-  type: text
-  config:
-    required: false
-  label: meta property="twitter:description" content
-- name: meta_twitter_image
-  type: file
-  config:
-    required: false
-  label: meta property="twitter:image" content
-- name: meta_twitter_site
-  type: text
-  config:
-    required: false
-  label: meta property="twitter:site" content
-- name: meta_twitter_creator
-  type: text
-  config:
-    required: false
-  label: meta property="twitter:creator" content
 - name: banner_text
   type: file
   config:
