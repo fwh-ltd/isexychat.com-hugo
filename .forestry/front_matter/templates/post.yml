@@ -15,7 +15,7 @@ fields:
 - name: date
   type: datetime
   label: Date
-  description: ''
+  description: meta name="description" content
   config:
     required: false
     date_format: 
@@ -52,15 +52,9 @@ fields:
     min: 
     max: 
     step: 
-- name: meta_description
-  type: text
-  config:
-    required: false
-  label: Meta Description
-  description: meta name="description" content
 - name: meta_robots
   type: tag_list
-  default: []
+  default: ["follow","index"]
   config:
     required: false
   label: meta name="robots" content
