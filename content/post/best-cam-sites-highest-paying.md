@@ -59,14 +59,14 @@ different languages.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |
-| --- |
-| Website |
-| Modeling expertise |
-| Payout |
-| Payment Options |
-| Concept |
-| Languages |
+| Site Details | &nbsp;
+| --- | ---
+| Website | https://chaturbate.com
+| Modeling expertise | For Beginners & Professionals
+| Payout | Join today & earn roughly 60% commission
+| Payment Options | Daily, Weekly, Monthly, Bi-monthly
+| Concept | Freemium
+| Languages | Translated into 15 different languages
 
 {{< /div >}}
 
@@ -86,14 +86,14 @@ million users visiting every day.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |
-| --- |
-| Website |
-| Modeling expertise |
-| Payout |
-| Payment Options |
-| Concept |
-| Languages |
+| Site Details | &nbsp;
+| --- | ---
+| Website | https://livejasmin.com/
+| Modeling expertise | For Beginners & Professionals
+| Payout | Join today & earn between 30% – 80% commission
+| Payment Options | Bi-weekly
+| Concept | Premium
+| Languages | Translated into 19 different languages
 
 {{< /div >}}
 
@@ -118,13 +118,13 @@ highest paying webcam modeling sites of the lot.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |
-| --- |
-| Website |
-| Modeling expertise |
-| Payout |
-| Payment Options |
-| Concept |
+| Site Details | &nbsp;
+| --- | ---
+| Website | https://myfreecams.com
+| Modeling expertise | For Beginners & Professionals
+| Payout | Join today & earn over 60% commission
+| Payment Options | Paid on the 1st and 16th of every month.
+| Concept | Freemium
 
 {{< /div >}}
 
@@ -147,14 +147,14 @@ Europe.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |
-| --- |
-| Website |
-| Modeling expertise |
-| Payout |
-| Payment Options |
-| Concept |
-| Languages |
+| Site Details | &nbsp;
+| --- | ---
+| Website | https://bongacams.com
+| Modeling expertise | For Beginners & Professionals
+| Payout | Join today & earn over 60% commission
+| Payment Options | Weekly, Monthly
+| Concept | Freemium
+| Languages | Translated into 34 different languages
 
 {{< /div >}}
 
@@ -179,14 +179,14 @@ average of 500-800 models online every hour.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |
-| --- |
-| Website |
-| Modeling expertise |
-| Payout |
-| Payment Options |
-| Concept |
-| Languages |
+| Site Details | &nbsp;
+| --- | ---
+| Website | https://stripchat.com
+| Modeling expertise | For Beginners & Professionals
+| Payout | Join today & earn roughly up to 60% commission
+| Payment Options | Weekly, Bi-weekly
+| Concept | Freemium
+| Languages | Translated into 18 different languages
 
 {{< /div >}}
 
@@ -207,14 +207,14 @@ performances.
 
 {{< div class="camsite-details" >}}
 
-| Site Details |
-| --- |
-| Website |
-| Modeling expertise |
-| Payout |
-| Payment Options |
-| Concept |
-| Languages |
+| Site Details | &nbsp;
+| --- | ---
+| Website | https://cam4.com
+| Modeling expertise | For Beginners
+| Payout | Join today & earn commission ranging between 40% – 70%
+| Payment Options | Bi-weekly
+| Concept | Premium
+| Languages | Translated into more than 7 different languages
 
 {{< /div >}}
 
@@ -245,10 +245,10 @@ live streams.
 | Site Details | &nbsp;
 | --- | ---
 | Website | https://camsoda.com
-| Modeling expertise |
-| Payout |
-| Payment Options |
-| Concept |
+| Modeling expertise | For Beginners & Professionals
+| Payout | Join today & earn roughly up to 50% – 55% commission
+| Payment Options | Weekly
+| Concept | Freemium
 
 {{< /div >}}
 
