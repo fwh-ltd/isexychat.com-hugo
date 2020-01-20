@@ -49,7 +49,7 @@ When it comes to finding the best sites of highest paying webcam jobs for webcam
 
 ### Chaturbate
 
-[![Chaturbate Logo](/images/Chaturbate-Logo.jpg |width=250)](https://chaturbate.com)
+[![Chaturbate Logo](/images/Chaturbate-Logo.jpg =250x250)](https://chaturbate.com)
 
 Chaturbate is the largest American adult camming site in the world in terms of
 traffic. The website name ‘Chaturbate’ is a portmanteau of the words Chat and
