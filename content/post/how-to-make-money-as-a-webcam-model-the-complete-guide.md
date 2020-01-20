@@ -8,7 +8,6 @@ banner_728x90 = ""
 banner_text = ""
 categories = ["Webcam Modeling"]
 date = ""
-draft = true
 excerpt = ""
 hero = ""
 meta_robots = ["follow", "index"]
