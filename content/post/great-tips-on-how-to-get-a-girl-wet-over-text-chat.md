@@ -14,6 +14,6 @@ hero = ""
 meta_robots = ["follow", "index"]
 tags = []
 timeToRead = 5
-title = "Great Tips on How to Get a Girl Wet Over Text Chat"
+title = "4 Great Tips on How to Get a Girl Wet Over Text Chat"
 
 +++
