@@ -1,5 +1,5 @@
 ---
-title: Best Cam Sites for 2020 – Highest Paying Webcam Modeling Jobs
+title: 7 Best Cam Sites for 2020 – Highest Paying Webcam Modeling Jobs
 excerpt: Article summary, up to 120 characters
 date: 2020-01-20T08:30:16.000+00:00
 hero: "/images/Sexy-Webcam-Model-Posing-in-front-of-Laptop-e1552635720857.jpg"
