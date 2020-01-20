@@ -19,9 +19,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: document
-  path: content/category/**/*
-  label: Categories
 - type: heading
   label: Data
 - type: directory
@@ -31,6 +28,13 @@ sections:
   match: "**/_index.md"
   templates:
   - author
+- type: directory
+  path: content/categories
+  label: Categories
+  create: all
+  match: "**/_index.md"
+  templates:
+  - category
 - type: directory
   path: config/_default
   label: Config
