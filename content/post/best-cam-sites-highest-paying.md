@@ -49,7 +49,7 @@ When it comes to finding the best sites of highest paying webcam jobs for webcam
 
 ### Chaturbate
 
-[![Chaturbate Logo](/images/Chaturbate-Logo.jpg)](https://chaturbate.com)
+[![Chaturbate Logo](/images/Chaturbate-Logo.jpg =250x)](https://chaturbate.com)
 
 Chaturbate is the largest American adult camming site in the world in terms of
 traffic. The website name ‘Chaturbate’ is a portmanteau of the words Chat and
@@ -59,14 +59,14 @@ different languages.
 
 {{< div class="camsite-details" >}}
 
-| Site Details | &nbsp;
-| --- | ---
-| Website | https://chaturbate.com
-| Modeling expertise | For Beginners & Professionals
-| Payout | Join today & earn roughly 60% commission
-| Payment Options | Daily, Weekly, Monthly, Bi-monthly
-| Concept | Freemium
-| Languages | Translated into 15 different languages
+| Site Details |   |
+| --- | --- |
+| Website | https://chaturbate.com |
+| Modeling expertise | For Beginners & Professionals |
+| Payout | Join today & earn roughly 60% commission |
+| Payment Options | Daily, Weekly, Monthly, Bi-monthly |
+| Concept | Freemium |
+| Languages | Translated into 15 different languages |
 
 {{< /div >}}
 
@@ -79,21 +79,21 @@ different languages.
 
 ### LiveJasmin
 
-[![LiveJasmin Logo](/images/livejasmin-logo-768x352.png)](https://livejasmin.com)
+[![LiveJasmin Logo](/images/livejasmin-logo-768x352.png =250x)](https://livejasmin.com)
 
 LiveJasmin is one of the largest European adult camming websites with over 35
 million users visiting every day.
 
 {{< div class="camsite-details" >}}
 
-| Site Details | &nbsp;
-| --- | ---
-| Website | https://livejasmin.com/
-| Modeling expertise | For Beginners & Professionals
-| Payout | Join today & earn between 30% – 80% commission
-| Payment Options | Bi-weekly
-| Concept | Premium
-| Languages | Translated into 19 different languages
+| Site Details |   |
+| --- | --- |
+| Website | https://livejasmin.com/ |
+| Modeling expertise | For Beginners & Professionals |
+| Payout | Join today & earn between 30% – 80% commission |
+| Payment Options | Bi-weekly |
+| Concept | Premium |
+| Languages | Translated into 19 different languages |
 
 {{< /div >}}
 
@@ -110,7 +110,7 @@ million users visiting every day.
 
 ### MyFreeCams
 
-[![MyFreeCams Logo](/images/Myfreecams-Logo-768x432.jpg)](https://myfreecams.com)
+[![MyFreeCams Logo](/images/Myfreecams-Logo-768x432.jpg =250x)](https://myfreecams.com)
 
 MyFreeCams (MFC) is one of the world’s largest adult webcam communities as described
 by industry group XBIZ and is popularly known by the term MFC. It is one of the
@@ -118,13 +118,13 @@ highest paying webcam modeling sites of the lot.
 
 {{< div class="camsite-details" >}}
 
-| Site Details | &nbsp;
-| --- | ---
-| Website | https://myfreecams.com
-| Modeling expertise | For Beginners & Professionals
-| Payout | Join today & earn over 60% commission
-| Payment Options | Paid on the 1st and 16th of every month.
-| Concept | Freemium
+| Site Details |   |
+| --- | --- |
+| Website | https://myfreecams.com |
+| Modeling expertise | For Beginners & Professionals |
+| Payout | Join today & earn over 60% commission |
+| Payment Options | Paid on the 1st and 16th of every month. |
+| Concept | Freemium |
 
 {{< /div >}}
 
@@ -140,21 +140,21 @@ highest paying webcam modeling sites of the lot.
 
 ### BongaCams
 
-[![BongaCams Logo](/images/BongaCams-Logo.jpg)](https://bongacams.com)
+[![BongaCams Logo](/images/BongaCams-Logo.jpg =250x)](https://bongacams.com)
 
 BongaCams is one of the largest adult camming website based in the Netherlands,
 Europe.
 
 {{< div class="camsite-details" >}}
 
-| Site Details | &nbsp;
-| --- | ---
-| Website | https://bongacams.com
-| Modeling expertise | For Beginners & Professionals
-| Payout | Join today & earn over 60% commission
-| Payment Options | Weekly, Monthly
-| Concept | Freemium
-| Languages | Translated into 34 different languages
+| Site Details |   |
+| --- | --- |
+| Website | https://bongacams.com |
+| Modeling expertise | For Beginners & Professionals |
+| Payout | Join today & earn over 60% commission |
+| Payment Options | Weekly, Monthly |
+| Concept | Freemium |
+| Languages | Translated into 34 different languages |
 
 {{< /div >}}
 
@@ -172,21 +172,21 @@ Europe.
 
 ### StripChat
 
-[![StripChat Logo](/images/StripChat.png)](https://stripchat.com)
+[![StripChat Logo](/images/StripChat.png =250x)](https://stripchat.com)
 
 Stripchat is one of the fastest-growing live cam sites on the web with an
 average of 500-800 models online every hour.
 
 {{< div class="camsite-details" >}}
 
-| Site Details | &nbsp;
-| --- | ---
-| Website | https://stripchat.com
-| Modeling expertise | For Beginners & Professionals
-| Payout | Join today & earn roughly up to 60% commission
-| Payment Options | Weekly, Bi-weekly
-| Concept | Freemium
-| Languages | Translated into 18 different languages
+| Site Details |   |
+| --- | --- |
+| Website | https://stripchat.com |
+| Modeling expertise | For Beginners & Professionals |
+| Payout | Join today & earn roughly up to 60% commission |
+| Payment Options | Weekly, Bi-weekly |
+| Concept | Freemium |
+| Languages | Translated into 18 different languages |
 
 {{< /div >}}
 
@@ -200,21 +200,21 @@ average of 500-800 models online every hour.
 
 ### Cam4
 
-[![Cam4 Logo](/images/Cam4-Logo-768x450.png)](https://cam4.com)
+[![Cam4 Logo](/images/Cam4-Logo-768x450.png =250x)](https://cam4.com)
 
 Cam4 is one of the popular live streaming website featuring live webcam
 performances.
 
 {{< div class="camsite-details" >}}
 
-| Site Details | &nbsp;
-| --- | ---
-| Website | https://cam4.com
-| Modeling expertise | For Beginners
-| Payout | Join today & earn commission ranging between 40% – 70%
-| Payment Options | Bi-weekly
-| Concept | Premium
-| Languages | Translated into more than 7 different languages
+| Site Details |   |
+| --- | --- |
+| Website | https://cam4.com |
+| Modeling expertise | For Beginners |
+| Payout | Join today & earn commission ranging between 40% – 70% |
+| Payment Options | Bi-weekly |
+| Concept | Premium |
+| Languages | Translated into more than 7 different languages |
 
 {{< /div >}}
 
@@ -235,20 +235,20 @@ performances.
 
 ### CamSoda
 
-[![CamSoda Logo](/images/CamSoda-768x318.png)](https://camsoda.com)
+[![CamSoda Logo](/images/CamSoda-768x318.png =250x)](https://camsoda.com)
 
 CamSoda is a live streaming webcam platform for adult webcams and non-adult
 live streams.
 
 {{< div class="camsite-details" >}}
 
-| Site Details | &nbsp;
-| --- | ---
-| Website | https://camsoda.com
-| Modeling expertise | For Beginners & Professionals
-| Payout | Join today & earn roughly up to 50% – 55% commission
-| Payment Options | Weekly
-| Concept | Freemium
+| Site Details |   |
+| --- | --- |
+| Website | https://camsoda.com |
+| Modeling expertise | For Beginners & Professionals |
+| Payout | Join today & earn roughly up to 50% – 55% commission |
+| Payment Options | Weekly |
+| Concept | Freemium |
 
 {{< /div >}}
 
