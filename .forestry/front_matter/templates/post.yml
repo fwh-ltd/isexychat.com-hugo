@@ -12,10 +12,10 @@ fields:
   config:
     required: false
   label: Excerpt
+  description: meta name="description" content
 - name: date
   type: datetime
   label: Date
-  description: meta name="description" content
   config:
     required: false
     date_format: 
