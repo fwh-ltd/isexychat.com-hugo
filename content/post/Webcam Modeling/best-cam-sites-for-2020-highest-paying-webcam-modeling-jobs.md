@@ -8,7 +8,6 @@ banner_728x90 = ""
 banner_text = ""
 categories = ["Webcam Modeling"]
 date = 2020-01-01T16:00:00Z
-draft = true
 excerpt = "When it comes to finding the best and highest paying sites for webcam modeling jobs, this post offers the list of Best Cam Sites online."
 hero = "/images/Sexy-Webcam-Model-Posing-in-front-of-Laptop-e1552635720857-1.jpg"
 meta_robots = ["follow", "index"]
