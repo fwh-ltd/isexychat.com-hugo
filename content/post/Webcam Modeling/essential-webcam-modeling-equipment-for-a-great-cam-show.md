@@ -8,7 +8,6 @@ banner_728x90 = ""
 banner_text = ""
 categories = ["Webcam Modeling"]
 date = 2019-05-22T16:00:00Z
-draft = true
 excerpt = "Being pretty helps but to become a successful cam model, having right camming equipment is also equally important. Read this guide for the equipment&#039;s list."
 hero = "/images/Essential-Equipment-for-Webcam-Modeling-e1558615411804.jpg"
 meta_robots = ["follow", "index"]
