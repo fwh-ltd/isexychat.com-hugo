@@ -8,7 +8,6 @@ banner_728x90 = ""
 banner_text = ""
 categories = ["Sex Chat"]
 date = 2019-02-23T16:00:00Z
-draft = true
 excerpt = "It is getting hard to remember what life was like before the internet. People used to talk face to face or call each other on the phone. It was possible to go days, weeks or months without interacting with a person back then. Schedules, work, and distance always seemed to interfere with staying up to &hellip;"
 hero = "/images/Chatting-Online-with-Random-Stranger-e1551690333463.jpeg"
 meta_robots = ["follow", "index"]
