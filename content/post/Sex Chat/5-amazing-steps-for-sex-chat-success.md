@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Mila Harper"]
 banner_160x600 = ""
 banner_300x250 = ""
 banner_320x50 = ""
@@ -9,7 +9,7 @@ banner_text = "/images/woman-smartphone-girl-technology-e1551690414393.jpg"
 categories = ["Sex Chat"]
 date = 2019-02-13T16:00:00Z
 excerpt = "Meeting new people is not always easy. It is sometimes hard to start a conversation. You have to figure out a topic to talk about and they you have to figure out whether the other person has any interest in what you are saying. Dating someone new is even harder. You are not only trying &hellip;"
-hero = ""
+hero = "/images/woman-smartphone-girl-technology-e1551690414393.jpg"
 meta_robots = ["follow", "index"]
 tags = []
 timeToRead = 5
