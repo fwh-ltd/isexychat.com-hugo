@@ -8,7 +8,6 @@ banner_728x90 = ""
 banner_text = ""
 categories = ["Webcam Modeling"]
 date = 2019-06-06T16:00:00Z
-draft = true
 excerpt = "Webcam modeling is an exciting world with tremendous cam girl pay potential. Check out the best payment methods / options to accept money as a cam model."
 hero = "/images/Cam-Girl-Payment-Options-e1560147163358.jpeg"
 meta_robots = ["follow", "index"]
@@ -64,6 +63,9 @@ The benefits of using cryptocurrency in the adult-industry are numerous such as:
 
 #### **Top ‘webcam’ sites with a popular ‘cryptocurrency’ payout option**
 
+{{< div class="camsite-details" >}}
+
+|  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Network | Bitcoin | Bitcoin Cash | Ethereum | LiteCoin |
 | BongaCams | Yes | Yes | Yes | Yes |
@@ -71,6 +73,8 @@ The benefits of using cryptocurrency in the adult-industry are numerous such as:
 | SkyPrivate | Yes | No | No | No |
 | Stripchat | Yes | No | Yes | No |
 | Xotika | Yes | No | No | No |
+
+{{< /div >}}
 
 ### **Check**
 
@@ -80,6 +84,9 @@ Yep! The option to receive checks by mail or courier still exists. Most webcam s
 
 **Top ‘webcam’ sites with a ‘check’ payout option**
 
+{{< div class="camsite-details" >}}
+
+|  |  |  |  |
 | --- | --- | --- | --- |
 | Network | Min | Schedule | Chargebacks |
 | BongaCams | $50 | Weekly | Covered |
@@ -90,13 +97,20 @@ Yep! The option to receive checks by mail or courier still exists. Most webcam s
 | LiveJasmin | $100 | Bi-Weekly | Covered |
 | Stripchat | $100 | Weekly | Covered |
 
+{{< /div >}}
+
 #### **Top ‘clip’ sites with a ‘check’ payout option**
 
+{{< div class="camsite-details" >}}
+
+|  |  |  |  |
 | --- | --- | --- | --- |
 | Network | Min | Schedule | Chargebacks |
 | AmateurCommunity | $50 | Bi-Weekly | Covered |
 | ManyVids | $100 | Bi-Weekly | Covered |
 | ModelCentro | $100 | Weekly | Not Covered |
+
+{{< /div >}}
 
 ### 
 
@@ -108,6 +122,9 @@ Direct deposit is a popular and often preferred method of payment. Like checks, 
 
 #### **Top ‘webcam’ sites with a ‘direct deposit’ payout option**
 
+{{< div class="camsite-details" >}}
+
+|  |  |  |  |
 | --- | --- | --- | --- |
 | Network | Min | Schedule | Chargebacks |
 | BongaCams | $50 | Weekly | Covered |
@@ -118,8 +135,13 @@ Direct deposit is a popular and often preferred method of payment. Like checks, 
 | ImLive | $50 | Bi-Weekly | Covered |
 | LiveJasmin | $100 | Bi-Weekly | Covered |
 
+{{< /div >}}
+
 #### **Top ‘clip’ sites with a ‘direct deposit’ payout option**
 
+{{< div class="camsite-details" >}}
+
+|  |  |  |  |
 | --- | --- | --- | --- |
 | Network | Min | Schedule | Chargebacks |
 | BentBox | $100 | Monthly | Covered |
@@ -128,6 +150,8 @@ Direct deposit is a popular and often preferred method of payment. Like checks, 
 | ManyVids | $50 | Bi-Weekly | Covered |
 | ModelCentro | $100 | Weekly | Not Covered |
 | OnlyFans | $10 | On Demand | N/A |
+
+{{< /div >}}
 
 ### **Payment services/processors (operational outside U.S.)**
 
