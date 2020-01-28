@@ -6,12 +6,12 @@ banner_320x50 = ""
 banner_468x60 = ""
 banner_728x90 = ""
 banner_text = ""
-categories = []
+categories = ["Sex Chat"]
 date = 2019-05-02T16:00:00Z
 excerpt = "Just like for many other things, there is a list of do’s and don’ts for Sexting also. Following these rules can make sexting more fun."
 hero = "/images/Beautiful-Girl-Sexting-on-Phone-e1556945362454.jpg"
 meta_robots = ["follow", "index"]
-tags = ["Sex Chat"]
+tags = []
 timeToRead = 5
 title = "Sexting Tips: 15 Do’s And Don’ts of Sexting"
 
