@@ -66,7 +66,7 @@ It’s tempting to [send and receive pictures](https://isexychat.com/chatrooms/t
 
 Not everyone is comfortable going by a pseudonym, but when you are trying to have an [online random chat with strangers](/online-random-chat-with-strangers/ "Online Random Chat With Strangers") it’s better to have an alias. Sexting is about building a fantasy and that doesn’t stop with creating a pseudonym to fit your carnal persona. So, if you’re Jenny from California maybe you should be the Russian skier Nadiya from Sochi.
 
-Your name is your identity, and with only a few small bits of information, your anonymous sexting partner can turn [online sex chat ](https://isexychat.com/chatrooms/sex-chat/)into a much less enjoyable encounter.
+Your name is your identity, and with only a few small bits of information, your anonymous sexting partner can turn [online sex chat ](https://isexychat.com/chatrooms/sex-chat/ "Chatrooms - Sex Chat")into a much less enjoyable encounter.
 
 ## **Keep your personal life to yourself**
 
