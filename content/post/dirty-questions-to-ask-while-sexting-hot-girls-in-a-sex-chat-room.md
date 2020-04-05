@@ -8,7 +8,6 @@ banner_728x90 = ""
 banner_text = ""
 categories = ["Sex Chat"]
 date = 2020-03-17T04:00:00Z
-draft = true
 excerpt = "Even when sexting online, the art of conversation comes in handy. Here are the kinkiest questions to make girls in a sex chat room all hot and bothered!"
 hero = "/images/girl-sexting-faq-e1584424030747.jpg"
 meta_robots = ["follow", "index"]
