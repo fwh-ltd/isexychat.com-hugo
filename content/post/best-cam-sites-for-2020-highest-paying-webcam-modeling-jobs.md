@@ -22,7 +22,7 @@ A webcam modeling job is a way for almost anyone to enter the field. If you have
 
 ## Rightly Showcasing your Webcam Modeling Talents and Skills
 
-![](/images/webcam-modeling-skills-e1551698872787-1024x640.jpg)
+![](https://isexychat.com/blog/wp-content/uploads/2019/02/webcam-modeling-skills-e1551698872787-1024x640.jpg)
 
 Before you quit your job to become a famous model in the webcam modeling industry, it is a good idea to learn a few things about what to expect.
 
@@ -30,7 +30,7 @@ The first thing to know is that it is not always as glamorous as it seems. Pursu
 
 ## What it takes to be a Webcam Model?
 
-![](/images/webcam-modeling-job-e1551698231793.jpg)
+![](https://isexychat.com/blog/wp-content/uploads/2019/02/webcam-modeling-job-e1551698231793-1024x641.jpeg)
 
 If you are determined to become a webcam model, you need to make a few decisions about how to do it and where to do it. Some of the things to consider are:
 
